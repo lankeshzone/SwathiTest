@@ -1,0 +1,16 @@
+Strings...
+group of characters... character array..
+ex.. China ==> {'C','h','i','n','a'}
+
+Strings are objects in Java
+They are represeted by String class.. String class is a final class
+it is a constant... which cannot be changed ona value is assigned(immutable)
+
+each and every string that are created during executionof programs are constants(object)... any string operation u perform will result in a new string.. substring, concat, substring etc.,
+creating an object ==> String str = new String("Lankesh")
+Literal type ==> String str = "Ahmed";
+Formatting ==> string str = "America" +  "Washington"
+returntype ==> .toString()
+System.out.println ("hello " + x + "test") ==> hello100test
+
+Search, substring, length, compare, split, uppercase, lowercase etc.,
